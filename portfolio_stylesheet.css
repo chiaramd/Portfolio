@@ -1,20 +1,83 @@
 body {
-
+  font-family: "Josefin Sans";
 }
 
-#Header {
-background-color: rgb(100,0,100);
-color: white;
+.Header {
+  background-color: rgb(102,0,90);
+  color: rgb(255,255,204);
 }
 
-#Projects {
-
+h1 {
+  text-align: center;
+  font-family: "Homemade Apple";
+  font-size: 40px;
+  margin: 0px;
+  padding-left: 50px;
+  padding-top: 10px;
+  height: 60px;
+  width: 350px;
 }
 
-#Links {
-
+h3 {
+  text-align: right;
+  font-size: 20px;
+  margin: 0;
+  padding-right: 10px;
+  padding-bottom: 10px;
 }
 
-#About_Me {
-background-color: rgb(25,0,25);
+.Projects {
+  text-align: center;
+}
+
+img {
+  width:300px;
+}
+
+#Date {
+  text-align: right;
+}
+
+h2 {
+  margin: 5px;
+}
+
+.P1 {
+  border: 2px solid black;
+  margin: 70px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.Links {
+
+}
+h4 {
+  margin: 0px;
+  margin-left: 20px;
+  font-size: 120%;
+}
+
+#Websites {
+  margin: auto;
+}
+
+#SiteItem {
+  padding: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px
+}
+
+.About_Me {
+  background-color: rgb(200,51,255);
+}
+
+#ProfilePic {
+  width: 100px;
+}
+#AboutMeHeader {
+  text-align: center;
+  padding: 10px;
+  padding-right: 500px;
 }
